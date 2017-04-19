@@ -1,0 +1,432 @@
+COUNTRY,CUISINES,RESTAURANT COUNTS
+Italy,American,20
+Italy,Cafe,100
+Italy,Burger,120
+Italy,Spanish,20
+Italy,Tapas,20
+Italy,Ice Cream,80
+Italy,Desserts,140
+Italy,Tavola Fredda,20
+Italy,Crepes,20
+Italy,Italian,200
+Italy,Grill,60
+Italy,Sicilian,20
+Italy,Pizza,180
+Italy,Roman,100
+Italy,Seafood,20
+Italy,Tavola Calda,20
+Italy,Mediterranean,20
+Canada,,73
+Canada,French,185
+Canada,American,1627
+Canada,Home-made,9
+Canada,Bubble Tea,4
+Canada,Southern,60
+Canada,Bar Food,2175
+Canada,Sushi,887
+Canada,Vietnamese,333
+Canada,Korean,222
+Canada,Ice Cream,156
+Canada,Indian,392
+Canada,Pacific Northwest,160
+Canada,Deli,4
+Canada,Latin American,20
+Canada,Diner,825
+Canada,Shanghai,1
+Canada,Vegetarian,735
+Canada,Modern European,21
+Canada,Cafe,268
+Canada,Southwestern,18
+Canada,Cajun,15
+Canada,Fish and Chips,698
+Canada,Pizza,2123
+Canada,Fusion,192
+Canada,Greek,341
+Canada,Middle Eastern,130
+Canada,Grill,83
+Canada,Chinese,1316
+Canada,Thai,537
+Canada,Mexican,345
+Canada,Peruvian,20
+Canada,Canadian,2872
+Canada,Sandwich,1826
+Canada,Japanese,1034
+Canada,Others,537
+Canada,Patisserie,10
+Canada,Seafood,2143
+Canada,Coffee and Tea,1427
+Canada,Tapas,25
+Canada,Desserts,1116
+Canada,Healthy Food,262
+Canada,Tea,74
+Canada,British,21
+Canada,Kebab,239
+Canada,Fast Food,941
+Canada,Asian,608
+Canada,Sri Lankan,20
+Canada,Mediterranean,376
+Canada,Pub Food,30
+Canada,Ramen,19
+Canada,Cambodian,19
+Canada,Italian,1173
+Canada,German,125
+Canada,Breakfast,1452
+Canada,Bakery,63
+Canada,Burger,2413
+Canada,Soul Food,21
+Canada,Caribbean,27
+Canada,Steak,1015
+Canada,European,326
+Canada,International,1330
+Canada,Beverages,101
+Canada,BBQ,360
+Australia,,47
+Australia,Malaysian,223
+Australia,American,375
+Australia,Irish,20
+Australia,Southern,40
+Australia,Bar Food,1197
+Australia,French,214
+Australia,Sushi,229
+Australia,Vietnamese,150
+Australia,Korean,124
+Australia,Ice Cream,102
+Australia,Indian,548
+Australia,Pan Asian,20
+Australia,International,244
+Australia,Deli,62
+Australia,German,42
+Australia,Latin American,5
+Australia,Japanese,906
+Australia,Vegetarian,79
+Australia,Modern European,59
+Australia,Korean BBQ,20
+Australia,Burger,928
+Australia,Fish and Chips,346
+Australia,Fusion,132
+Australia,Others,507
+Australia,Greek,138
+Australia,Middle Eastern,196
+Australia,Brazilian,22
+Australia,Grill,59
+Australia,Eastern European,14
+Australia,Afghani,12
+Australia,Turkish,88
+Australia,Pizza,1241
+Australia,Juices,39
+Australia,Thai,691
+Australia,Cafe,3016
+Australia,Mexican,257
+Australia,Diner,79
+Australia,Canadian,15
+Australia,Fish & Chips,10
+Australia,Australian,797
+Australia,Chinese,601
+Australia,Patisserie,20
+Australia,Modern Australian,3859
+Australia,Seafood,1360
+Australia,Coffee and Tea,3260
+Australia,Tapas,782
+Australia,Portuguese,6
+Australia,Desserts,798
+Australia,Dumplings,20
+Australia,Healthy Food,241
+Australia,African,48
+Australia,British,89
+Australia,Kebab,15
+Australia,Fast Food,175
+Australia,Breakfast,1371
+Australia,Asian,1005
+Australia,Moroccan,35
+Australia,Indonesian,53
+Australia,Mediterranean,383
+Australia,Pub Food,114
+Australia,Ramen,20
+Australia,Native Australian,56
+Australia,Cambodian,6
+Australia,Beverages,51
+Australia,Italian,1178
+Australia,Contemporary,79
+Australia,Tea,63
+Australia,South American,43
+Australia,Yum Cha,56
+Australia,Bakery,330
+Australia,Steak,746
+Australia,European,407
+Australia,Spanish,205
+Australia,Frozen Yogurt,38
+Australia,Drinks Only,1
+Australia,Sandwich,598
+Australia,BBQ,202
+United States,,54146
+United States,Dim Sum,391
+United States,French,6834
+United States,American,172032
+United States,Irish,296
+United States,Southwestern,3319
+United States,Tex-Mex,7210
+United States,Southern,21289
+United States,Bar Food,42655
+United States,Malaysian,2
+United States,Deli,1447
+United States,Sushi,22428
+United States,Healthy Food,4637
+United States,Vietnamese,4807
+United States,Korean,2287
+United States,Ice Cream,6410
+United States,Indian,5210
+United States,Pan Asian,74
+United States,Pacific Northwest,2232
+United States,Amish,360
+United States,Floribbean,150
+United States,Scandinavian,20
+United States,Brazilian,1365
+United States,Latin American,5134
+United States,Japanese,21778
+United States,Vegetarian,14947
+United States,Cuban,1314
+United States,Cafe,6418
+United States,Taiwanese,257
+United States,Tibetan,102
+United States,Burger,64157
+United States,Colombian,20
+United States,Fish and Chips,201
+United States,Bubble Tea,94
+United States,Chinese,36647
+United States,Fusion,612
+United States,Salad,372
+United States,California,1995
+United States,Greek,7248
+United States,Crepes,327
+United States,Teriyaki,2001
+United States,Hawaiian,535
+United States,Eastern European,482
+United States,Afghani,359
+United States,Turkish,426
+United States,Middle Eastern,2765
+United States,Juices,13
+United States,Russian,20
+United States,Thai,14028
+United States,Mongolian,61
+United States,Burmese,20
+United States,Mexican,54503
+United States,Peruvian,500
+United States,Sandwich,65455
+United States,Bagels,225
+United States,Po'Boys,167
+United States,Puerto Rican,56
+United States,Australian,19
+United States,Pizza,92037
+United States,Patisserie,20
+United States,New American,1810
+United States,Seafood,60372
+United States,Polish,20
+United States,Coffee and Tea,20898
+United States,Home-made,91
+United States,Tapas,6069
+United States,Portuguese,877
+United States,Diner,26123
+United States,Italian,53216
+United States,Salvadorean,79
+United States,Desserts,27483
+United States,New Mexican,963
+United States,African,250
+United States,British,1498
+United States,Tea,2098
+United States,Taco,138
+United States,Fast Food,52732
+United States,Jamaican,141
+United States,Breakfast,45897
+United States,Asian,15992
+United States,Lebanese,233
+United States,Fondue,20
+United States,Moroccan,238
+United States,Indonesian,33
+United States,Mediterranean,7547
+United States,Pub Food,726
+United States,Ramen,297
+United States,Ethiopian,40
+United States,Nepalese,45
+United States,Creole,2
+United States,Chili,45
+United States,Pakistani,456
+United States,Filipino,143
+United States,Drinks Only,99
+United States,International,7035
+United States,Persian,259
+United States,Argentine,164
+United States,German,2389
+United States,South American,130
+United States,Armenian,55
+United States,Belgian,239
+United States,Bakery,1563
+United States,Cajun,7087
+United States,Soul Food,183
+United States,Donuts,5211
+United States,Caribbean,2609
+United States,Steak,44959
+United States,European,4224
+United States,Spanish,4392
+United States,Frozen Yogurt,214
+United States,Beverages,2557
+United States,BBQ,32467
+United Kingdom,Dim Sum,38
+United Kingdom,French,139
+United Kingdom,American,297
+United Kingdom,South Indian,20
+United Kingdom,Others,140
+United Kingdom,Bar Food,100
+United Kingdom,Seafood,260
+United Kingdom,Coffee and Tea,140
+United Kingdom,Tapas,40
+United Kingdom,Desserts,20
+United Kingdom,Sushi,58
+United Kingdom,Curry,97
+United Kingdom,Italian,418
+United Kingdom,New Mexican,20
+United Kingdom,Indian,616
+United Kingdom,British,478
+United Kingdom,Fast Food,80
+United Kingdom,Asian,40
+United Kingdom,Taiwanese,19
+United Kingdom,Brazilian,20
+United Kingdom,Latin American,60
+United Kingdom,Mediterranean,40
+United Kingdom,Japanese,117
+United Kingdom,Ramen,19
+United Kingdom,Cafe,79
+United Kingdom,Scottish,280
+United Kingdom,Pakistani,98
+United Kingdom,Street Food,38
+United Kingdom,Burger,157
+United Kingdom,International,120
+United Kingdom,Chinese,158
+United Kingdom,Continental,20
+United Kingdom,Contemporary,79
+United Kingdom,Argentine,20
+United Kingdom,Greek,40
+United Kingdom,Middle Eastern,20
+United Kingdom,Grill,80
+United Kingdom,Breakfast,120
+United Kingdom,Afghani,20
+United Kingdom,Turkish,20
+United Kingdom,Pizza,100
+United Kingdom,North Indian,19
+United Kingdom,Steak,219
+United Kingdom,European,40
+United Kingdom,Spanish,40
+United Kingdom,Thai,140
+United Kingdom,Mexican,80
+United Kingdom,BBQ,20
+South Africa,Japanese,40
+South Africa,Vegetarian,20
+South Africa,Cuban,20
+South Africa,American,60
+South Africa,Cafe,277
+South Africa,Pizza,375
+South Africa,Patisserie,40
+South Africa,Burger,159
+South Africa,Spanish,20
+South Africa,Tapas,20
+South Africa,Portuguese,60
+South Africa,Contemporary,20
+South Africa,Sushi,120
+South Africa,African,79
+South Africa,Fast Food,120
+South Africa,Desserts,40
+South Africa,Ice Cream,20
+South Africa,Tea,20
+South Africa,Steak,80
+South Africa,Grill,219
+South Africa,Bakery,98
+South Africa,Italian,156
+South Africa,Fish and Chips,19
+South Africa,European,20
+South Africa,Seafood,431
+South Africa,Asian,80
+South Africa,Arabian,20
+South Africa,Mexican,40
+South Africa,Indian,40
+South Africa,Greek,38
+South Africa,Mediterranean,117
+Philippines,Japanese,20
+Philippines,Ramen,3
+Philippines,French,3
+Philippines,American,12
+Philippines,Cafe,3
+Philippines,Seafood,13
+Philippines,Desserts,6
+Philippines,Sushi,4
+Philippines,Korean,6
+Philippines,Italian,6
+Philippines,Ice Cream,3
+Philippines,Indian,7
+Philippines,Bakery,3
+Philippines,Chinese,4
+Philippines,European,9
+Philippines,Asian,16
+Philippines,Mexican,4
+Philippines,Filipino,17
+Philippines,Mediterranean,3
+India,Bengali,34
+India,Malaysian,38
+India,Parsi,20
+India,American,514
+India,South Indian,843
+India,Rajasthani,79
+India,Tex-Mex,105
+India,Pizza,398
+India,Middle Eastern,20
+India,Seafood,383
+India,Lebanese,118
+India,French,157
+India,Desserts,871
+India,Vietnamese,20
+India,Andhra,70
+India,Healthy Food,36
+India,Ice Cream,99
+India,Indian,20
+India,Finger Food,225
+India,Mexican,826
+India,Hyderabadi,15
+India,German,38
+India,Fast Food,1169
+India,Chettinad,52
+India,Asian,611
+India,Goan,225
+India,Awadhi,15
+India,Arabian,54
+India,Kerala,120
+India,Indonesian,39
+India,North Eastern,19
+India,Mediterranean,542
+India,Japanese,112
+India,Biryani,156
+India,Mangalorean,20
+India,Cafe,2133
+India,Tibetan,60
+India,Gujarati,20
+India,Street Food,248
+India,Burger,212
+India,Italian,2276
+India,Charcoal Grill,39
+India,Korean,20
+India,Continental,2727
+India,Greek,75
+India,Salad,36
+India,Tea,55
+India,Modern Indian,155
+India,Maharashtrian,60
+India,Armenian,20
+India,Bakery,375
+India,Chinese,3250
+India,Juices,40
+India,European,580
+India,Spanish,36
+India,Thai,538
+India,Lucknowi,20
+India,Beverages,174
+India,Burmese,37
+India,Mughlai,689
+India,North Indian,4857
+India,Sandwich,20

@@ -3,6 +3,19 @@
 
 ## ZOMATO Dataset Analysis Using API
 
+
+```python
+from IPython.display import Image
+Image("/Users/sonalichaudhari/Desktop/final/Z.png")
+```
+
+
+
+
+![png](output_2_0.png)
+
+
+
 ### Zomato is a restaurant search and discovery service founded in 2008 by Deepinder Goyal and Pankaj Chaddah.
 ### It currently operates in 24 countries, including India, Australia and the United States.
 ### It provides information and reviews on restaurants, including images of menus where the restaurant does not have its own website.
@@ -50,6 +63,7 @@ Github link:
 
 1. Cities.csv
 2. IDS.csv
+3. COUNTRY.csv
 
 #### OUPTPUT:  COLLECTING_DATA.ipynb file
 
@@ -90,6 +104,20 @@ data -> Country -> City -> RestaurantName_ResId.json
 #### OUTPUT:
 
 1. ANA_1.csv
+2. Top 5 restaurants by restuarant number distribution for US is haown in pie charts form
+
+
+```python
+from IPython.display import Image
+Image("/Users/sonalichaudhari/Desktop/final/analysis/ana_1/ana_1.png")
+```
+
+
+
+
+![png](output_24_0.png)
+
+
 
 ### * ANALYSIS 2
 ### As Per User Input retrieving the Highest Rated Restaurant details

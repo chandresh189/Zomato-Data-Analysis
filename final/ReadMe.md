@@ -103,8 +103,6 @@ data -> Country -> City -> RestaurantName_ResId.json
 
 #### OUTPUT:
 
-https://github.com/SonaliChaudhari/SonaliC_Python_Final_Project/tree/master/final/analysis/ana_1
-
 1. <a href="https://github.com/SonaliChaudhari/SonaliC_Python_Final_Project/blob/master/final/analysis/ana_1/ANA_1.csv">ANA_1.csv</a>
 2. <a href="https://github.com/SonaliChaudhari/SonaliC_Python_Final_Project/blob/master/final/analysis/ana_1/ANA_1_PART2.csv">ANA_1_PART2.csv</a>
 3. <a href="https://github.com/SonaliChaudhari/SonaliC_Python_Final_Project/blob/master/final/analysis/ana_1/ana_1.png">Top 5 restaurants by restuarant number distribution for US is haown in pie charts form</a>

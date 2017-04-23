@@ -1,10 +1,10 @@
 RES_ID,Name,CUISINES,USER RATING,VOTES,RATING TEXT,ADDRESS,AVG COST for TWO,DISTANCE
-16794052,Abe & Louie's,"Steak, American",4.3,680,Very Good,"793 Boylston Street, Boston, MA 02116",70$,1.4441 miles
-16794268,Atlantic Fish Co.,Seafood,4.5,670,Excellent,"761 Boylston Street, Boston, MA 02116",40$,1.4658 miles
-16795720,Eastern Standard,"American, Seafood",4.5,622,Excellent,"528 Commonwealth Avenue, Boston, MA 02215",70$,1.0015 miles
-16795900,Flour Bakery + Cafe,"Bakery, Cafe",4.7,854,Excellent,"1595 Washington Street, Boston, MA 02118",10$,1.4458 miles
-16795961,Fugakyu,"Asian, Japanese, Sushi",4.3,968,Very Good,"1280 Beacon St, Brookline, MA 02446",150$,1.0534 miles
-16804261,Island Creek Oyster Bar,"American, Seafood",4.6,462,Excellent,"500 Commonwealth Avenue, Boston, MA 02215",95$,1.0231 miles
-16798564,Top of the Hub,"New American, Seafood",3.9,286,Good,"800 Boylston Street, Boston, MA 02199",70$,1.4163 miles
-16798568,Toro,"Spanish, Tapas",4.7,1048,Excellent,"1704 Washington Street, Boston, MA 02118",40$,1.365 miles
-16798597,Trident Booksellers & Cafe,"Cafe, American",4.2,276,Very Good,"338 Newbury Street, Boston, MA 02115",25$,1.2298 miles
+18233317,145 Kala Ghoda,"Fast Food, Beverages, Desserts",4.2,1606,Very Good,"145, Kala Ghoda, Fort, Mumbai",1500Rs.,0.3366 miles
+49261,Colaba Social,"Mediterranean, American, North Indian, Desserts",4.0,4836,Very Good,"24, Ground Floor, Glen Rose Building, Behind Taj Mahal Palace, Apollo Bunder, Colaba, Mumbai",1200Rs.,0.7853 miles
+18448467,D:OH!,"Fast Food, Italian, Beverages",4.0,148,Very Good,"Ground Floor, Unit 2B, Trade View, Kamala City, Senapati Bapat Marg, Lower Parel, Mumbai",800Rs.,5.0795 miles
+18313566,Farzi Cafe,Modern Indian,4.3,1240,Very Good,"Kamala Mills, Near Radio Mirchi Office, Lower Parel, Mumbai",1500Rs.,4.9106 miles
+18175468,Grandmama's Café,Cafe,4.1,2098,Very Good,"Shop 5, Near Swaminarayan Mandir, Pritam Estate, Dadar East, Mumbai",1000Rs.,5.9034 miles
+34396,Pizza By The Bay,"Italian, Pizza",4.3,4014,Very Good,"143, Soona Mahal, Marine Drive, Churchgate, Mumbai",2000Rs.,0.4584 miles
+49003,SpiceKlub,North Indian,4.2,3370,Very Good,"8A, Janta Industrial Estate, Opposite Phoenix Mills, Senapati Bapat Road, Lower Parel, Mumbai",1500Rs.,4.2818 miles
+18415164,Summer House Cafe,"American, Lebanese, Italian",4.4,335,Very Good,"Todi Mill, Lower Parel, Mumbai",2000Rs.,4.6823 miles
+16541542,The Bombay Canteen,Modern Indian,4.2,2110,Very Good,"Ground Floor, Process House, Kamala Mills, Near Radio Mirchi Office, S.B. Marg, Lower Parel, Mumbai",1600Rs.,4.8867 miles
